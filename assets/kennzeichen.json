@@ -1,0 +1,2826 @@
+[
+{
+   "short": "A",
+   "long": " Augsburg (Bay)"
+ },
+ {
+   "short": "AA",
+   "long": " Aalen Ostalbkreis (BaWü)"
+ },
+ {
+   "short": "AB",
+   "long": " Aschaffenburg (Bay)"
+ },
+ {
+   "short": "ABG",
+   "long": " Altenburg, Altenburger Land (Thür)"
+ },
+ {
+   "short": "ABI",
+   "long": " Landkreis Anhalt-Bitterfeld (SaAn)"
+ },
+ {
+   "short": "AC",
+   "long": " Aachen (NrWe)"
+ },
+ {
+   "short": "AE",
+   "long": " Vogtlandkreis (Sachs)"
+ },
+ {
+   "short": "AD",
+   "long": " Privatfahrzeuge der amerikanischen Streitkräfte"
+ },
+ {
+   "short": "AF",
+   "long": " Reserviertes Unterscheidungszeichen. Das Kfz-Kennzeichen AF ist bis 30. April 2021 für einen Zulassungsbezirk des Bundeslandes Freistaat Bayern reserviert."
+ },
+ {
+   "short": "AH",
+   "long": " Ahaus im Kreis Borken (NrWe)"
+ },
+ {
+   "short": "AIB",
+   "long": " Rosenheim, Landkreis München (Bay)"
+ },
+ {
+   "short": "AIC",
+   "long": " Aichach-Friedberg (Bay)"
+ },
+ {
+   "short": "AK",
+   "long": " Altenkirchen/Westerwald (RhPf)"
+ },
+ {
+   "short": "ALF",
+   "long": " Hildesheim (NiSa)"
+ },
+ {
+   "short": "ALZ",
+   "long": " Aschaffenburg (Bay)"
+ },
+ {
+   "short": "AM",
+   "long": " Amberg (Bay)"
+ },
+ {
+   "short": "AN",
+   "long": " Ansbach (Bay)"
+ },
+ {
+   "short": "ANA",
+   "long": " Annaberg / Erzgebirgskreis (Sachs)"
+ },
+ {
+   "short": "ANG",
+   "long": " Uckermark (Bran)"
+ },
+ {
+   "short": "ANK",
+   "long": " Vorpommern / Greifswald (MeVo)"
+ },
+ {
+   "short": "Aö",
+   "long": " Altötting (Bay)"
+ },
+ {
+   "short": "AP",
+   "long": " Weimarer-Land (Thür)"
+ },
+ {
+   "short": "APD",
+   "long": " Weimarer-Land (Thür)"
+ },
+ {
+   "short": "ARN",
+   "long": " Ilm-Kreis (Thür)"
+ },
+ {
+   "short": "ART",
+   "long": " Kyffhäuserkreis (Thür)"
+ },
+ {
+   "short": "AS",
+   "long": " Amberg-Sulzbach (Bay)"
+ },
+ {
+   "short": "ASL",
+   "long": " Aschersleben-Staßfurter Salzlandkreis (SaAn)"
+ },
+ {
+   "short": "ASZ",
+   "long": " Aue-Schwarzenberg / Erzbebirgskreis (Sachs)"
+ },
+ {
+   "short": "AT",
+   "long": " Mecklenburgische Seenplatte (MeVo)"
+ },
+ {
+   "short": "AU",
+   "long": " Erzgebirgskreis (Sachs)"
+ },
+ {
+   "short": "AUR",
+   "long": " Aurich (NiSa)"
+ },
+ {
+   "short": "AW",
+   "long": " Ahrweiler (RhPf)"
+ },
+ {
+   "short": "AZ",
+   "long": " Alzey-Worms (RhPf)"
+ },
+ {
+   "short": "AZE",
+   "long": " Anhalt-Zerbst / Bitterfeld (SaAn)"
+ },
+ {
+   "short": "B",
+   "long": " Berlin (Hauptstadt und Regierungssitz der BRD)"
+ },
+ {
+   "short": "BA",
+   "long": " Bamberg (Bay)"
+ },
+ {
+   "short": "BAD",
+   "long": " Baden-Baden (BaWü)"
+ },
+ {
+   "short": "BAR",
+   "long": " Barnim (Bran)"
+ },
+ {
+   "short": "BB",
+   "long": " Böblingen (BaWü)"
+ },
+ {
+   "short": "BBL",
+   "long": " Landesregierung Brandenburg (Bran)"
+ },
+ {
+   "short": "BBG",
+   "long": " Salzlandkreis (SaAn)"
+ },
+ {
+   "short": "BC",
+   "long": " Biberach/Riss (BaWü)"
+ },
+ {
+   "short": "BCH",
+   "long": " Neckar-Odenwald-Kreis (BaWü)"
+ },
+ {
+   "short": "BD 1",
+   "long": " Deutscher Bundestag"
+ },
+ {
+   "short": "BD 3",
+   "long": " Bundesrat"
+ },
+ {
+   "short": "BD 4",
+   "long": " Bundesverfassungsbericht"
+ },
+ {
+   "short": "BD 5",
+   "long": " Bundespräsidialamt"
+ },
+ {
+   "short": "BD 6",
+   "long": " Bundeskanzleramt"
+ },
+ {
+   "short": "BD 7",
+   "long": " Auswärtiges Amt"
+ },
+ {
+   "short": "BD 9",
+   "long": " Bundesinnenministerium"
+ },
+ {
+   "short": "BD 10",
+   "long": " Bundesjustizministerium"
+ },
+ {
+   "short": "BD 11",
+   "long": " Bundesfinanzministerium"
+ },
+ {
+   "short": "BD 12",
+   "long": " Bundesministerium für Wirtschaft und Technologie"
+ },
+ {
+   "short": "BD 13",
+   "long": " Bundesministerium für Verkehr, Bau und Stadtentwicklung"
+ },
+ {
+   "short": "BD 16",
+   "long": " Bundesfinanzverwaltung"
+ },
+ {
+   "short": "BD 18",
+   "long": " Bundesverteidigungsministerium"
+ },
+ {
+   "short": "BD 19",
+   "long": " Bundesministerium für Bildung und Forschung"
+ },
+ {
+   "short": "BD 20",
+   "long": " Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit"
+ },
+ {
+   "short": "BD 21",
+   "long": " Bundesministerium für Familie"
+ },
+ {
+   "short": "BD 22",
+   "long": " Bundesgesundheitsministerium"
+ },
+ {
+   "short": "BD 26",
+   "long": " Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung"
+ },
+ {
+   "short": "BE",
+   "long": " Warendorf (NrWe)"
+ },
+ {
+   "short": "BED",
+   "long": " Landkreis Mittelsachsen (Sachs)"
+ },
+ {
+   "short": "BER",
+   "long": " Barnim (Bran)"
+ },
+ {
+   "short": "BF",
+   "long": " Steinfurt (NrWe)"
+ },
+ {
+   "short": "BGL",
+   "long": " Berchtesgadener Land (Bay)"
+ },
+ {
+   "short": "BH",
+   "long": " Rastatt (BaWü)"
+ },
+ {
+   "short": "BI",
+   "long": " Bielefeld (NrWe)"
+ },
+ {
+   "short": "BID",
+   "long": " Marburg-Biedenkopf (Hes)"
+ },
+ {
+   "short": "BIN",
+   "long": " Mainz-Bingen (RhPf)"
+ },
+ {
+   "short": "BIR",
+   "long": " Birkenfeld/Nahe und Idar-Oberstein (RhPf)"
+ },
+ {
+   "short": "BIT",
+   "long": " Bitburg-Prüm (RhPf)"
+ },
+ {
+   "short": "BIW",
+   "long": " Lankreis Bautzen (Sachs)"
+ },
+ {
+   "short": "BK",
+   "long": "  Landkreis Backnang, Rems-Murr-Kreis (BaWü), Landkreis Börde BÖ (SaAn), Landkreis Schwäbisch Hall CR und SHA (BaWü). Das Unterscheidungszeichen wird durch mehrere Bezirke verwaltet."
+ },
+ {
+   "short": "BKS",
+   "long": " Bernkastel-Wittlich (RhPf)"
+ },
+ {
+   "short": "BL",
+   "long": " Zollernalbkreis in Balingen (BaWü)"
+ },
+ {
+   "short": "BLB",
+   "long": " Siegen-Wittgenstein (NrWe)"
+ },
+ {
+   "short": "BLK",
+   "long": " Burgenlandkreis (SaAn)"
+ },
+ {
+   "short": "BM",
+   "long": " Rhein-Erft-Kreis (NrWe)"
+ },
+ {
+   "short": "BN",
+   "long": " Bonn (NrWe)"
+ },
+ {
+   "short": "BNA",
+   "long": " Landkreis Leipzig (Sachs)"
+ },
+ {
+   "short": "BO",
+   "long": " Bochum (NrWe)"
+ },
+ {
+   "short": "Bö",
+   "long": " Landkreis Börde (SaAn)"
+ },
+ {
+   "short": "BOH",
+   "long": " Bocholt, Kreis Borken (NrWe)"
+ },
+ {
+   "short": "BOR",
+   "long": " Borken (NrWe)"
+ },
+ {
+   "short": "BOT",
+   "long": " Bottrop (NrWe)"
+ },
+ {
+   "short": "BRA",
+   "long": " Wesermarsch in Brake (NiSa)"
+ },
+ {
+   "short": "BRB",
+   "long": " Brandenburg (Bran)"
+ },
+ {
+   "short": "BRG",
+   "long": " Jerichower Land (SaAn)"
+ },
+ {
+   "short": "BRK -",
+   "long": " Bad Brückenau (Bay)"
+ },
+ {
+   "short": "BRL",
+   "long": " Goslar (NiSa)"
+ },
+ {
+   "short": "BRV",
+   "long": " Rotenburg / Wümme (NiSa)"
+ },
+ {
+   "short": "BS",
+   "long": " Braunschweig (NiSa)"
+ },
+ {
+   "short": "BSB",
+   "long": " Osnabrück (NiSa)"
+ },
+ {
+   "short": "BSK",
+   "long": " Landkreis Oder-Spree (Bran)"
+ },
+ {
+   "short": "BT",
+   "long": " Bayreuth (Bay)"
+ },
+ {
+   "short": "BTF",
+   "long": " Landkreis Anhalt-Bitterfeld (SaAn)"
+ },
+ {
+   "short": "BüD",
+   "long": " Wetteraukreis (Hess)"
+ },
+ {
+   "short": "BüR",
+   "long": " Paderborn (NrWe)"
+ },
+ {
+   "short": "BüS",
+   "long": " Konstanz, Gemeinde Büsingen am Hochrhein (BaWü)"
+ },
+ {
+   "short": "BüZ",
+   "long": " Landkreis Rostock (MeVo)"
+ },
+ {
+   "short": "BUL",
+   "long": " Schwandorf, Amberg-Sulzbach (Bay)"
+ },
+ {
+   "short": "BW",
+   "long": " Bundes-Wasser- und Schiffahrtsverwaltung"
+ },
+ {
+   "short": "BWL",
+   "long": " Baden-Württemberg Landesregierung und Landtag"
+ },
+ {
+   "short": "BYL",
+   "long": " Bayern Landesregierung und Landtag"
+ },
+ {
+   "short": "BZ",
+   "long": " Landkreis Bautzen (Sach)"
+ },
+ {
+   "short": "C",
+   "long": " Chemnitz (Sachs)"
+ },
+ {
+   "short": "CA",
+   "long": " Oberspreewald-Lausitz (Bran)"
+ },
+ {
+   "short": "CAS",
+   "long": " Castrop-Rauxel, Kreis Recklinghausen (NrWe)"
+ },
+ {
+   "short": "CB",
+   "long": " Cottbus (Bran)"
+ },
+ {
+   "short": "CE",
+   "long": " Celle (NiSa)"
+ },
+ {
+   "short": "CHA",
+   "long": " Cham/Oberpfalz (Bay)"
+ },
+ {
+   "short": "CLP",
+   "long": " Cloppenburg (NiSa)"
+ },
+ {
+   "short": "CLZ",
+   "long": " Goslar (NiSa)"
+ },
+ {
+   "short": "CO",
+   "long": " Coburg (Bay)"
+ },
+ {
+   "short": "COC",
+   "long": " Cochem-Zell/Mosel (RhPf)"
+ },
+ {
+   "short": "COE",
+   "long": " Coesfeld/Westfalen (NrWe)"
+ },
+ {
+   "short": "CR",
+   "long": " Schwäbisch Hall (BaWü)"
+ },
+ {
+   "short": "CUX",
+   "long": " Cuxhaven (NiSa)"
+ },
+ {
+   "short": "CW",
+   "long": " Calw (BaWü)"
+ },
+ {
+   "short": "D",
+   "long": " Düsseldorf (NrWe)"
+ },
+ {
+   "short": "DA",
+   "long": " Darmstadt (Hess)"
+ },
+ {
+   "short": "DAH",
+   "long": " Dachau (Bay)"
+ },
+ {
+   "short": "DAN",
+   "long": " Lüchow-Dannenberg (NiSa)"
+ },
+ {
+   "short": "DAU",
+   "long": " Daun (Eifel) (RhPf)"
+ },
+ {
+   "short": "DB",
+   "long": " Deutsche Bundesbahn"
+ },
+ {
+   "short": "DBR",
+   "long": " Landkreis Rostock, Bad Doberan (MeVo)"
+ },
+ {
+   "short": "DD",
+   "long": " Dresden (Sachs)"
+ },
+ {
+   "short": "DE",
+   "long": " Dessau (SaAn)"
+ },
+ {
+   "short": "DEG",
+   "long": " Deggendorf (Bay)"
+ },
+ {
+   "short": "DEL",
+   "long": " Delmenhorst (NiSa)"
+ },
+ {
+   "short": "DGF",
+   "long": " Dingolfing-Landau (Bay)"
+ },
+ {
+   "short": "DH",
+   "long": " Diepholz (NiSa)"
+ },
+ {
+   "short": "DI",
+   "long": " Darmstadt-Dieburg (Hess)"
+ },
+ {
+   "short": "DIL",
+   "long": " Lahn-Dill-Kreis (Hess)"
+ },
+ {
+   "short": "DIN",
+   "long": " Wesel (NrWe)"
+ },
+ {
+   "short": "DIZ",
+   "long": " Diez, Rhein-Lahn-Kreis (RhPf)"
+ },
+ {
+   "short": "DKB",
+   "long": " Landkreis Ansbach, Dinkelsbühl (Bay)"
+ },
+ {
+   "short": "DL",
+   "long": " Landkreis Mittelsachsen, Döbeln (Sachs)"
+ },
+ {
+   "short": "DLG",
+   "long": " Dillingen/Donau (Bay)"
+ },
+ {
+   "short": "DM",
+   "long": " Mecklenburgische Seenplatte, Demmin (MeVo)"
+ },
+ {
+   "short": "DN",
+   "long": " Düren (NrWe)"
+ },
+ {
+   "short": "DO",
+   "long": " Dortmund (NrWe)"
+ },
+ {
+   "short": "DON",
+   "long": " Donau-Ries in Donauwörth (Bay)"
+ },
+ {
+   "short": "DU",
+   "long": " Duisburg (NrWe)"
+ },
+ {
+   "short": "DUD",
+   "long": " Landkreis Göttingen, Duderstadt (NiSa)"
+ },
+ {
+   "short": "DüW",
+   "long": " Bad Dürkheim (RhPf)"
+ },
+ {
+   "short": "DW",
+   "long": " Dippoldiswalde / Sächsische Schweiz-Osterzgebirge (Sachs)"
+ },
+ {
+   "short": "DZ",
+   "long": " Delitzsch / Landkreis Nordsachsen (Sachs)"
+ },
+ {
+   "short": "E",
+   "long": " Essen (NrWe)"
+ },
+ {
+   "short": "EA",
+   "long": " Eisenach (Thür)"
+ },
+ {
+   "short": "EB",
+   "long": " Landkreis Nordsachen (Sachs)"
+ },
+ {
+   "short": "EBE",
+   "long": " Ebersberg (Bay)"
+ },
+ {
+   "short": "EBN",
+   "long": " Landkreis Haßberge, Ebern (Bay)"
+ },
+ {
+   "short": "EBN",
+   "long": " Landkreis Haßberge (Bay)"
+ },
+ {
+   "short": "EBS",
+   "long": " Landkreis Forchheim, Kulmbach, Bayreuth (Bay)"
+ },
+ {
+   "short": "ECK",
+   "long": " Rendsburg-Eckernförde (SlHo)"
+ },
+ {
+   "short": "ED",
+   "long": " Erding (Bay)"
+ },
+ {
+   "short": "EE",
+   "long": " Elbe-Elster (Bran)"
+ },
+ {
+   "short": "EF",
+   "long": " Erfurt (Thür)"
+ },
+ {
+   "short": "EG",
+   "long": " Landkreis Rottal-Inn, Eggenfelden (Bay)"
+ },
+ {
+   "short": "EH",
+   "long": " Eisenhüttenstadt (Bran)"
+ },
+ {
+   "short": "EI",
+   "long": " Eichstätt (Bay)"
+ },
+ {
+   "short": "EIC",
+   "long": " Eichsfeld (Thür)"
+ },
+ {
+   "short": "EIL",
+   "long": " Mansfeld-Südharz (SaAn)"
+ },
+ {
+   "short": "EIN",
+   "long": " Northeim (NiSa)"
+ },
+ {
+   "short": "EIS",
+   "long": " Saale-Holzland-Kreis (Thür)"
+ },
+ {
+   "short": "EL",
+   "long": " Emsland in Meppen (NiSa)"
+ },
+ {
+   "short": "EM",
+   "long": " Emmendingen (BaWü)"
+ },
+ {
+   "short": "EMD",
+   "long": " Emden (NiSa)"
+ },
+ {
+   "short": "EMS",
+   "long": " Rhein-Lahn-Kreis in Bad Ems (RhPf)"
+ },
+ {
+   "short": "EN",
+   "long": " Ennepe-Ruhr-Kreis in Schwelm (NrWe)"
+ },
+ {
+   "short": "ER",
+   "long": " Erlangen/Stadt (Bay)"
+ },
+ {
+   "short": "ERB",
+   "long": " Odenwaldkreis in Erbach (Hess)"
+ },
+ {
+   "short": "ERH",
+   "long": " Erlangen-Höchstadt (Bay)"
+ },
+ {
+   "short": "ERK",
+   "long": " Heinsberg (NrWe)"
+ },
+ {
+   "short": "ERZ",
+   "long": " Erzgebirgskreis (Sachs)"
+ },
+ {
+   "short": "ES",
+   "long": " Esslingen/Neckar (BaWü)"
+ },
+ {
+   "short": "ESB",
+   "long": " Kreis Neustadt a. d. Waldnaab, Amberg-Sulzbach, Bayreuth, Nürnberger Land, Eschenbach, Vohenstrauß (Bay)"
+ },
+ {
+   "short": "ESW",
+   "long": " Werra-Meissner-Kreis in Eschwege (Hess)"
+ },
+ {
+   "short": "EU",
+   "long": " Euskirchen (NrWe)"
+ },
+ {
+   "short": "EW",
+   "long": " Barnim (Bran)"
+ },
+ {
+   "short": "F",
+   "long": " Frankfurt/Main (Hess)"
+ },
+ {
+   "short": "FB",
+   "long": " Wetteraukreis in Friedberg (Hess)"
+ },
+ {
+   "short": "FD",
+   "long": " Fulda (Hess)"
+ },
+ {
+   "short": "FDB",
+   "long": " Landkreis Aichach-Friedberg (Bay)"
+ },
+ {
+   "short": "FDS",
+   "long": " Freudenstadt (BaWü)"
+ },
+ {
+   "short": "FEU",
+   "long": " Landkreis Ansbach, Feuchtwangen (Bay)"
+ },
+ {
+   "short": "FF",
+   "long": " Frankfurt / Oder (Bran)"
+ },
+ {
+   "short": "FFB",
+   "long": " Fürstenfeldbruck (Bay)"
+ },
+ {
+   "short": "FG",
+   "long": " Freiberg / Landkreis Mittelsachsen (Sachs)"
+ },
+ {
+   "short": "FI",
+   "long": " Elbe-Elster (Bran)"
+ },
+ {
+   "short": "FKB",
+   "long": " Landkreis Waldeck-Frankenberg (Hess)"
+ },
+ {
+   "short": "FL",
+   "long": " Flensburg (SlHo)"
+ },
+ {
+   "short": "FLO",
+   "long": " Landkreis Mittelsachsen (Sachs)"
+ },
+ {
+   "short": "FN",
+   "long": " Bodenseekreis in Friedrichshafen (BaWü)"
+ },
+ {
+   "short": "FO",
+   "long": " Forchheim (Bay)"
+ },
+ {
+   "short": "FOR",
+   "long": " Spree-Neiße (Bran)"
+ },
+ {
+   "short": "FR",
+   "long": " Landkreis Breisgau-Hochschwarzwald, Freiburg im Breisgau (BaWü)"
+ },
+ {
+   "short": "FRG",
+   "long": " Freyung-Grafenau (Bay)"
+ },
+ {
+   "short": "FRI",
+   "long": " Jever in Friesland (NiSa)"
+ },
+ {
+   "short": "FRW",
+   "long": " Märkisch-Oderland (Bran)"
+ },
+ {
+   "short": "FS",
+   "long": " Freising (Bay)"
+ },
+ {
+   "short": "FT",
+   "long": " Frankenthal/Pfalz (RhPf)"
+ },
+ {
+   "short": "FTL",
+   "long": " Altkreis Freital, Sächsische Schweiz-Osterzgebirge, (Sachs) "
+ },
+ {
+   "short": "Fü",
+   "long": " Fürth (Bay)"
+ },
+ {
+   "short": "FüS",
+   "long": " Landkreis Ostallgäu, Füssen (Bay)"
+ },
+ {
+   "short": "G",
+   "long": " Gera (Thür)"
+ },
+ {
+   "short": "GA",
+   "long": " Gardelegen, Altmarkkreis-Salzwedel (SaAn)"
+ },
+ {
+   "short": "GAN",
+   "long": " Landkreis Northeim, Bad Gandersheim (NiSa)"
+ },
+ {
+   "short": "GAP",
+   "long": " Garmisch-Partenkirchen (Bay)"
+ },
+ {
+   "short": "GC",
+   "long": " Landkreis Zwickau, Glauchau (Sachs)"
+ },
+ {
+   "short": "GD",
+   "long": " Ostalbkreis (BaWü)"
+ },
+ {
+   "short": "GDB",
+   "long": " Landkreis Nordwestmecklenburg (MeVo)"
+ },
+ {
+   "short": "GE",
+   "long": " Gelsenkirchen (NrWe)"
+ },
+ {
+   "short": "GEL",
+   "long": " Geldern (Kennzeichen wurde abgeschafft, ist jetzt KLE Kreis Kleve) (NrWe)"
+ },
+ {
+   "short": "GER",
+   "long": " Germersheim (RhPf)"
+ },
+ {
+   "short": "GEO",
+   "long": " Gerolzhofen (Bay)"
+ },
+ {
+   "short": "GF",
+   "long": " Gifhorn (NiSa)"
+ },
+ {
+   "short": "GG",
+   "long": " Gross-Gerau (Hess)"
+ },
+ {
+   "short": "GHA",
+   "long": " Landkreis Leipzig (Sachs)"
+ },
+ {
+   "short": "GHC",
+   "long": " Wittenberg (SaAn)"
+ },
+ {
+   "short": "GI",
+   "long": " Giessen (Hess)"
+ },
+ {
+   "short": "GK",
+   "long": " Kreis Heinsberg, Geilenkirchen (NrWe)"
+ },
+ {
+   "short": "GL",
+   "long": " Rheinisch-Bergischer Kreis in Bergisch Gladbach (NrWe)"
+ },
+ {
+   "short": "GLA",
+   "long": " Gladbeck, Kreis Recklinghausen (NrWe)"
+ },
+ {
+   "short": "GM",
+   "long": " Oberbergischer Kreis in Gummersbach (NrWe)"
+ },
+ {
+   "short": "GMN",
+   "long": " Landkreis Vorpommern-Rügen (MeVo)"
+ },
+ {
+   "short": "GN",
+   "long": " Main-Kinzig-Kreis (Hess)"
+ },
+ {
+   "short": "GNT",
+   "long": " Jerichower Land (SaAn)"
+ },
+ {
+   "short": "Gö",
+   "long": " Göttingen (NiSa)"
+ },
+ {
+   "short": "GOA",
+   "long": " Rhein-Hunsrück-Kreis (RhPf)"
+ },
+ {
+   "short": "GOH",
+   "long": " Rhein-Lahn-Kreis, Sankt Goarshausen (RhPf)"
+ },
+ {
+   "short": "GP",
+   "long": " Göppingen (BaWü)"
+ },
+ {
+   "short": "GR",
+   "long": " Görlitz (Sachs)"
+ },
+ {
+   "short": "GRA",
+   "long": " Landkreis Freyung-Grafenau (Bay)"
+ },
+ {
+   "short": "GRH",
+   "long": " Landkreis Meißen (Sachs)"
+ },
+ {
+   "short": "GRI",
+   "long": " Landkreis Rottal-Inn, Bad Griesbach im Rottal (Bay)"
+ },
+ {
+   "short": "GRM",
+   "long": " Landkreis Leipzig, Grimma (Sachs)"
+ },
+ {
+   "short": "GRZ",
+   "long": " Greiz (Thür)"
+ },
+ {
+   "short": "GS",
+   "long": " Goslar (NiSa)"
+ },
+ {
+   "short": "GT",
+   "long": " Gütersloh (NrWe)"
+ },
+ {
+   "short": "GTH",
+   "long": " Gotha (Thür)"
+ },
+ {
+   "short": "GUB",
+   "long": " Spree-Neiße (Bran)"
+ },
+ {
+   "short": "GUN",
+   "long": " Landkreis Weißenburg-Gunzenhausen (Bay)"
+ },
+ {
+   "short": "Gü",
+   "long": " Landkreis Rostock, Güstrow (MeVo)"
+ },
+ {
+   "short": "GV",
+   "long": " Grevenbroich, Rhein-Kreis Neuss (NrWe)"
+ },
+ {
+   "short": "GVM",
+   "long": " Landkreis Nordwestmecklenburg (MeVo)"
+ },
+ {
+   "short": "GW",
+   "long": " Landkreis Vorpommern-Greifswald (MeVo)"
+ },
+ {
+   "short": "GZ",
+   "long": " Günzburg (Bay)"
+ },
+ {
+   "short": "H",
+   "long": " Hannover (NiSa)"
+ },
+ {
+   "short": "HA",
+   "long": " Hagen/Westfalen (NrWe)"
+ },
+ {
+   "short": "HAB",
+   "long": " Landkreis Bad Kissingen, Hammelburg (Bay)"
+ },
+ {
+   "short": "HAL",
+   "long": " Halle/Saale (SaAn)"
+ },
+ {
+   "short": "HAM",
+   "long": " Hamm/Westfalen (NrWe)"
+ },
+ {
+   "short": "HAS",
+   "long": " Hassberge in Hassfurt (Bay)"
+ },
+ {
+   "short": "HB",
+   "long": " Freie Hansestadt Bremen und Bremerhaven (Bre)"
+ },
+ {
+   "short": "HBN",
+   "long": " Hildburghausen (Thür)"
+ },
+ {
+   "short": "HBS",
+   "long": " Halberstadt / Landkreis Harz (SaAn)"
+ },
+ {
+   "short": "HC",
+   "long": " Landkreis Mittelsachsen (Sachs)"
+ },
+ {
+   "short": "HCH",
+   "long": " Zollernalbkreis (BaWü)"
+ },
+ {
+   "short": "HD",
+   "long": " Rhein-Neckar-Kreis und Heidelberg (BaWü)"
+ },
+ {
+   "short": "HDH",
+   "long": " Heidenheim/Brenz (BaWü)"
+ },
+ {
+   "short": "HDL",
+   "long": " Landkreis Börde (SaAn)"
+ },
+ {
+   "short": "HE",
+   "long": " Helmstedt (NiSa)"
+ },
+ {
+   "short": "HEB",
+   "long": " Landkreis Nürnberger Land, Hersbruck (Bay)"
+ },
+ {
+   "short": "HEF",
+   "long": " Bad Hersfeld-Rotenburg (Hess)"
+ },
+ {
+   "short": "HEI",
+   "long": " Heide in Dithmarschen/Holstein (SlHo)"
+ },
+ {
+   "short": "HER",
+   "long": " Herne (NrWe)"
+ },
+ {
+   "short": "HET",
+   "long": " Mansfeld Südharz (SaAn)"
+ },
+ {
+   "short": "HF",
+   "long": " Herford in Kirchlengern (NrWe)"
+ },
+ {
+   "short": "HG",
+   "long": " Hochtaunuskreis in Bad Homburg v.d.H. (Hess)"
+ },
+ {
+   "short": "HGN",
+   "long": " Landkreis Ludwigslust-Parchim (MeVo)"
+ },
+ {
+   "short": "HGW",
+   "long": " Hansestadt Greifswald (MeVo)"
+ },
+ {
+   "short": "HH",
+   "long": " Freie Hansestadt Hamburg (Hbg)"
+ },
+ {
+   "short": "HHM",
+   "long": " Burgenlandkreis (SaAn)"
+ },
+ {
+   "short": "HI",
+   "long": " Hildesheim (NiSa)"
+ },
+ {
+   "short": "HIG",
+   "long": " Eichsfeld (Thür)"
+ },
+ {
+   "short": "HIP",
+   "long": " Landkreis Roth, Hilpoltstein (Bay)"
+ },
+ {
+   "short": "HK",
+   "long": " Privatfahrzeuge der amerikanischen Streitkräfte,"
+ },
+ {
+   "short": "",
+   "long": "  gültig bis 31.07.2011, danach HK (Heidekreis)"
+ },
+ {
+   "short": "HK",
+   "long": " Heidekreis (NiSa)"
+ },
+ {
+   "short": "HL",
+   "long": " Hansestadt Lübeck (SlHo)"
+ },
+ {
+   "short": "HM",
+   "long": " Hameln-Pyrmont (NiSa)"
+ },
+ {
+   "short": "HMü",
+   "long": " Landkreis Göttingen (NiSa)"
+ },
+ {
+   "short": "HN",
+   "long": " Heilbronn/Neckar (BaWü)"
+ },
+ {
+   "short": "HO",
+   "long": " Hof (Bay)"
+ },
+ {
+   "short": "HOG",
+   "long": " Kassel (Kreis) (Hess)"
+ },
+ {
+   "short": "HOH",
+   "long": " Landkreis Haßberge (Bay)"
+ },
+ {
+   "short": "HOL",
+   "long": " Holzminden (NiSa)"
+ },
+ {
+   "short": "HOM",
+   "long": " Saar-Pfalz-Kreis in Homburg/Saar (Saar)"
+ },
+ {
+   "short": "HOR",
+   "long": " Landkreis Horb, Freudenstadt (BaWü)"
+ },
+ {
+   "short": "HOT",
+   "long": " Landkreis Zwickau (Sachs)"
+ },
+ {
+   "short": "HöS",
+   "long": " Landkreis Erlangen Höchstadt (Bay)"
+ },
+ {
+   "short": "HP",
+   "long": " Bergstrasse in Heppenheim (Hess)"
+ },
+ {
+   "short": "HR",
+   "long": " Schwalm-Eder-Kreis in Homberg (Hess)"
+ },
+ {
+   "short": "HRO",
+   "long": " Hansestadt Rostock (MeVo)"
+ },
+ {
+   "short": "HS",
+   "long": " Heinsberg (NrWe)"
+ },
+ {
+   "short": "HSK",
+   "long": " Hochsauerlandkreis in Meschede (NrWe)"
+ },
+ {
+   "short": "HST",
+   "long": " Hansestadt Stralsund (MeVo)"
+ },
+ {
+   "short": "HU",
+   "long": " Main-Kinzing-Kreis / Hanau (Hess)"
+ },
+ {
+   "short": "HV",
+   "long": " Landkreis Stendal, Havelberg (SaAn)"
+ },
+ {
+   "short": "HVL",
+   "long": " Havelland (Bran)"
+ },
+ {
+   "short": "HWI",
+   "long": " Hansestadt Wismar (MeVo)"
+ },
+ {
+   "short": "HX",
+   "long": " Höxter (NrWe)"
+ },
+ {
+   "short": "HY",
+   "long": " Hoyerswerda / Landkreis Bautzen (Sachs)"
+ },
+ {
+   "short": "HZ",
+   "long": " Landkreis Harz (SaAn)"
+ },
+ {
+   "short": "IGB",
+   "long": " St. Ingbert (Saar)"
+ },
+ {
+   "short": "IK",
+   "long": " Ilm-Kreis (Thür)"
+ },
+ {
+   "short": "IL",
+   "long": " Ilmenau (Thür)"
+ },
+ {
+   "short": "ILL",
+   "long": " Landkreis Neu-Ulm, Illertissen (Bay)"
+ },
+ {
+   "short": "IN",
+   "long": " Ingolstadt/Donau (Bay)"
+ },
+ {
+   "short": "IZ",
+   "long": " Kreis Steinburg, Itzehoe (SlHo)"
+ },
+ {
+   "short": "J",
+   "long": " Jena (Thür)"
+ },
+ {
+   "short": "JE",
+   "long": " Landkreis Wittenberg, Jessen (SaAn)"
+ },
+ {
+   "short": "JL",
+   "long": " Jerichower Land (SaAn)"
+ },
+ {
+   "short": "JüL",
+   "long": " Kreis Düren, Jülich (NrWe)"
+ },
+ {
+   "short": "K",
+   "long": " Köln (NrWe)"
+ },
+ {
+   "short": "KA",
+   "long": " Karlsruhe (BaWü)"
+ },
+ {
+   "short": "KB",
+   "long": " Waldeck-Frankenberg in Korbach (Hess)"
+ },
+ {
+   "short": "KC",
+   "long": " Kronach (Bay)"
+ },
+ {
+   "short": "KE",
+   "long": " Kempten/Allgäu (Bay)"
+ },
+ {
+   "short": "KEH",
+   "long": " Kelheim (Bay)"
+ },
+ {
+   "short": "KEL",
+   "long": " Ortenauskreis (BaWü)"
+ },
+ {
+   "short": "KEM",
+   "long": " Tirschenreuth, Bayreuth (Bay)"
+ },
+ {
+   "short": "KF",
+   "long": " Kaufbeuren (Bay)"
+ },
+ {
+   "short": "KG",
+   "long": " Bad Kissingen (Bay)"
+ },
+ {
+   "short": "KH",
+   "long": " Bad Kreuznach (RhPf)"
+ },
+ {
+   "short": "KI",
+   "long": " Kiel (SlHo)"
+ },
+ {
+   "short": "KIB",
+   "long": " Donnersberg-Kreis in Kirchheimbolanden (RhPf)"
+ },
+ {
+   "short": "KK",
+   "long": " Viersen (NrWe)"
+ },
+ {
+   "short": "KL",
+   "long": "Kaiserslautern, Stadt und Land (RhPf))"
+ },
+ {
+   "short": "KLE",
+   "long": " Kleve (NrWe)"
+ },
+ {
+   "short": "KLZ",
+   "long": " Altmarkkreis-Salzwedel (SaAn)"
+ },
+ {
+   "short": "KM",
+   "long": " Landkreis Bautzen (Sachs)"
+ },
+ {
+   "short": "KN",
+   "long": " Konstanz (BaWü)"
+ },
+ {
+   "short": "KO",
+   "long": " Koblenz (RhPf)"
+ },
+ {
+   "short": "KöN",
+   "long": " Bad Königshofen im Grabfeld - Rhön-Grabfeld (Bay)"
+ },
+ {
+   "short": "KöT",
+   "long": " Köthen / Anhalt-Bitterfeld (SaAn)"
+ },
+ {
+   "short": "KöZ",
+   "long": " Landkreis Cham - Kötzting (Bay)"
+ },
+ {
+   "short": "KR",
+   "long": " Krefeld (NrWe)"
+ },
+ {
+   "short": "KRU",
+   "long": " Günzburg (Bay)"
+ },
+ {
+   "short": "KS",
+   "long": " Kassel, Stadt und Land (Hess)"
+ },
+ {
+   "short": "KT",
+   "long": " Kitzingen (Bay)"
+ },
+ {
+   "short": "KU",
+   "long": " Kulmbach (Bay)"
+ },
+ {
+   "short": "KüN",
+   "long": " Hohenlohe-Kreis (BaWü)"
+ },
+ {
+   "short": "KUS",
+   "long": " Kusel (RhPf)"
+ },
+ {
+   "short": "KY",
+   "long": " Ostprignitz-Ruppin (Bran)"
+ },
+ {
+   "short": "KYF",
+   "long": " Kyffhäuserkreis (Thür)"
+ },
+ {
+   "short": "L",
+   "long": " Leipzig, Stadt und Land (Sachs)"
+ },
+ {
+   "short": "LA",
+   "long": " Landshut, Stadt und Land (Bay)"
+ },
+ {
+   "short": "LAU",
+   "long": " Lauf / Pegnitz - Nürnberger Land (Bay)"
+ },
+ {
+   "short": "LB",
+   "long": " Ludwigsburg (BaWü)"
+ },
+ {
+   "short": "LBS",
+   "long": " Saale-Orla-Kreis (Thür)"
+ },
+ {
+   "short": "LBZ",
+   "long": " Landkreis Ludwigslust-Parchim (MeVo)"
+ },
+ {
+   "short": "LD",
+   "long": " Landau i. d. Pfalz (RhPf)"
+ },
+ {
+   "short": "LDK",
+   "long": " Lahn-Dill-Kreis (Hess)"
+ },
+ {
+   "short": "LDS",
+   "long": " Dahme-Spreewald (Bran)"
+ },
+ {
+   "short": "LEO",
+   "long": " Böblingen (BaWü)"
+ },
+ {
+   "short": "LER",
+   "long": " Leer (NiSa)"
+ },
+ {
+   "short": "LEV",
+   "long": " Leverkusen (NrWe)"
+ },
+ {
+   "short": "LG",
+   "long": " Lüneburg (NiSa)"
+ },
+ {
+   "short": "LH",
+   "long": " Coesfeld (NrWe)"
+ },
+ {
+   "short": "LI",
+   "long": " Lindau / Bodensee (Bay)"
+ },
+ {
+   "short": "LIB",
+   "long": " Elbe-Elster (Bran)"
+ },
+ {
+   "short": "LIF",
+   "long": " Lichtenfels (Bay)"
+ },
+ {
+   "short": "LIP",
+   "long": " Lippe in Detmold (NrWe)"
+ },
+ {
+   "short": "LL",
+   "long": " Landsberg / Lech (Bay)"
+ },
+ {
+   "short": "LM",
+   "long": " Limburg-Weilburg / Lahn (Hess)"
+ },
+ {
+   "short": "Lö",
+   "long": " Lörrach (BaWü)"
+ },
+ {
+   "short": "LöB",
+   "long": " Landkreis Görlitz (Sachs)"
+ },
+ {
+   "short": "LOS",
+   "long": " Oder-Spree (Bran)"
+ },
+ {
+   "short": "LP",
+   "long": " Soest (NrWe)"
+ },
+ {
+   "short": "LR",
+   "long": " Ortenauskreis (BaWü)"
+ },
+ {
+   "short": "LRO",
+   "long": " Landkreis Rostock (MeVo)"
+ },
+ {
+   "short": "LSA",
+   "long": " Sachsen-Anhalt Landesregierung und Landtag (SaAn)"
+ },
+ {
+   "short": "LSZ",
+   "long": " Unstrut-Hainich-Kreis (Thür)"
+ },
+ {
+   "short": "LU",
+   "long": " Ludwigshafen (RhPf)"
+ },
+ {
+   "short": "LUN",
+   "long": " Unna (NrWe)"
+ },
+ {
+   "short": "LUP",
+   "long": " Ludwigslust-Parchim (MeVo)"
+ },
+ {
+   "short": "LWL",
+   "long": " Landkreis Ludwigslust-Parchim (MeVo)"
+ },
+ {
+   "short": "M",
+   "long": " München, Stadt und Land (Bay)"
+ },
+ {
+   "short": "MA",
+   "long": " Mannheim (BaWü)"
+ },
+ {
+   "short": "MAB",
+   "long": " Erzgebirgskreis (Sachs)"
+ },
+ {
+   "short": "MAI",
+   "long": " Kelheim, Landshut (Bay)"
+ },
+ {
+   "short": "MAK",
+   "long": " Wunsiedel i. Fichtelgebirge (Bay)"
+ },
+ {
+   "short": "MAL",
+   "long": " Landshut (Bay)"
+ },
+ {
+   "short": "MB",
+   "long": " Miesbach (Bay)"
+ },
+ {
+   "short": "MC",
+   "long": " Mecklenburgische Seenplatte (MeVo)"
+ },
+ {
+   "short": "MD",
+   "long": " Magdeburg (SaAn)"
+ },
+ {
+   "short": "ME",
+   "long": " Mettmann (NrWe)"
+ },
+ {
+   "short": "MEI",
+   "long": " Meissen (Sachs)"
+ },
+ {
+   "short": "MEK",
+   "long": " Mittl. Erzgebirgskreis (Sachs)"
+ },
+  {
+    "short": "MEL",
+    "long": " Melle / Landkreis Osnabrück (NiSa)"
+  },
+ {
+   "short": "MER",
+   "long": " Saalekreis (SaAn)"
+ },
+ {
+   "short": "MET",
+   "long": " Rhön-Grabfeld (Bay)"
+ },
+ {
+   "short": "MG",
+   "long": " Mönchengladbach (NrWe)"
+ },
+ {
+   "short": "MGH",
+   "long": " Main-Tauber-Kreis (BaWü)"
+ },
+ {
+   "short": "MGN",
+   "long": " Schmalkalden-Meiningen (Thür)"
+ },
+ {
+   "short": "MH",
+   "long": " Mülheim an der Ruhr (NrWe)"
+ },
+ {
+   "short": "MHL",
+   "long": " Unstrut-Hainich-Kreis (Thür)"
+ },
+ {
+   "short": "MI",
+   "long": " Minden-Lübbecke / Westfalen (NrWe)"
+ },
+ {
+   "short": "MIL",
+   "long": " Miltenberg (Bay)"
+ },
+ {
+   "short": "MKK",
+   "long": " Main-Kinzig-Kreis (Hessen)"
+ },
+ {
+   "short": "ML",
+   "long": " Mansfeld-Südharz (SaAn)"
+ },
+ {
+   "short": "MK",
+   "long": " Märkischer Kreis in Lüdenscheid (NrWe)"
+ },
+ {
+   "short": "MM",
+   "long": " Memmingen (Bay)"
+ },
+ {
+   "short": "MN",
+   "long": " Unterallgäu in Mindelheim (Bay)"
+ },
+ {
+   "short": "MO",
+   "long": " Wesel (NrWe)"
+ },
+ {
+   "short": "MOD",
+   "long": " Ostallgäu (Bay)"
+ },
+ {
+   "short": "MOL",
+   "long": " Märkisch-Oderland (Bran)"
+ },
+ {
+   "short": "MON",
+   "long": " Aachen (NrWe)"
+ },
+ {
+   "short": "MOS",
+   "long": " Neckar-Odenwald-Kreis in Mosbach (BaWü)"
+ },
+ {
+   "short": "MQ",
+   "long": " Merseburg-Querfurt / Saalekreis (SaAn)"
+ },
+ {
+   "short": "MR",
+   "long": " Marburg-Biedenkopf an der Lahn (Hessen)"
+ },
+ {
+   "short": "MS",
+   "long": " Münster / Westfalen (NrWe)"
+ },
+ {
+   "short": "MSE",
+   "long": " Mecklenburgische Seenplatte (MeVo)"
+ },
+ {
+   "short": "MSH",
+   "long": " Mansfeld-Südharz-Kreis (SaAn)"
+ },
+ {
+   "short": "MSP",
+   "long": " Main-Spessart-Kreis in Karlstadt (Bay)"
+ },
+ {
+   "short": "MST",
+   "long": " Mecklenburg-Strelitz (MeVo)"
+ },
+ {
+   "short": "MTK",
+   "long": " Main-Taunus-Kreis in Hofheim (Hess)"
+ },
+ {
+   "short": "MTL",
+   "long": " Muldentalkreis, Landkreis Leipzig (Sachs)"
+ },
+ {
+   "short": "MüB",
+   "long": " Bayreuth, Hof (Bay)"
+ },
+ {
+   "short": "Mü",
+   "long": " Mühldorf am Inn (Bay)"
+ },
+ {
+   "short": "MüR",
+   "long": " Müritz, Mecklenburgische Seenplatte (MeVo)"
+ },
+ {
+   "short": "MW",
+   "long": " Mittweida, Landkreis Mittelsachsen (Sachs)"
+ },
+ {
+   "short": "MY",
+   "long": " Mayen-Koblenz (RhPf)"
+ },
+ {
+   "short": "MYK",
+   "long": " Mayen-Koblenz (RhPf)"
+ },
+ {
+   "short": "MZ",
+   "long": " Mainz-Bingen und Mainz (RhPf)"
+ },
+ {
+   "short": "MZG",
+   "long": " Merzig-Wadern (Saar)"
+ },
+ {
+   "short": "N",
+   "long": " Nürnberg, Nürnberger Land (Bay)"
+ },
+ {
+   "short": "NAB",
+   "long": " Amberg-Sulzbach, Schwandorf (Bay)"
+ },
+ {
+   "short": "NAI",
+   "long": " Naila, Hof (Bay)"
+ },
+ {
+   "short": "NB",
+   "long": " Neubrandenburg (MeVo)"
+ },
+ {
+   "short": "ND",
+   "long": " Neuburg-Schrobenhausen an der Donau (Bay)"
+ },
+ {
+   "short": "NDH",
+   "long": " Nordhausen (Thür)"
+ },
+ {
+   "short": "NE",
+   "long": " Neuss, Rhein-Kreis Neuss (NrWe)"
+ },
+ {
+   "short": "NEA",
+   "long": " Neustadt-Bad Windsheim an der Aisch (Bay)"
+ },
+ {
+   "short": "NEB",
+   "long": " Burgenlandkreis (SaAn)"
+ },
+ {
+   "short": "NEC",
+   "long": " Neustadt bei Coburg, Landkreis Coburg (Bay)"
+ },
+ {
+   "short": "NEN",
+   "long": " Landkreis Schwandorf, Neunburg vorm Wald (Bay)"
+ },
+ {
+   "short": "NES",
+   "long": " Rhön-Grabfeld in Bad Neustadt an der Saale (Bay)"
+ },
+ {
+   "short": "NEW",
+   "long": " Neustadt an der Waldnaab (Bay)"
+ },
+ {
+   "short": "NF",
+   "long": " Nordfriesland in Husum (SlHo)"
+ },
+ {
+   "short": "NH",
+   "long": " Sonneberg (Thür)"
+ },
+ {
+   "short": "NI",
+   "long": " Nienburg an der Weser (NiSa)"
+ },
+ {
+   "short": "NK",
+   "long": " Neunkirchen an der Saar (Saar)"
+ },
+ {
+   "short": "NM",
+   "long": " Neumarkt / Oberpfalz (Bay)"
+ },
+ {
+   "short": "NMB",
+   "long": " Burgenlandkreis (SaAn)"
+ },
+ {
+   "short": "NMS",
+   "long": " Neumünster (SlHo)"
+ },
+ {
+   "short": "NOH",
+   "long": " Grafschaft Bentheim in Nordhorn (NiSa)"
+ },
+ {
+   "short": "NOL",
+   "long": " Niederschlesische Oberlausitz, Landkreis Görlitz (Sachs)"
+ },
+ {
+   "short": "NOM",
+   "long": " Northeim (NiSa)"
+ },
+ {
+   "short": "NOR",
+   "long": " Aurich (NiSa)"
+ },
+ {
+   "short": "Nö",
+   "long": " Donau-Ries, Nördlingen (Bay)"
+ },
+ {
+   "short": "NP",
+   "long": " Ostprigniz-Ruppin (Bran)"
+ },
+ {
+   "short": "NR",
+   "long": " Neuwied am Rhein, Stadt und Land (RhPf)"
+ },
+ {
+   "short": "NT",
+   "long": " Esslingen (BaWü)"
+ },
+ {
+   "short": "NU",
+   "long": " Neu-Ulm (Bay)"
+ },
+ {
+   "short": "NVP",
+   "long": " Nordvorpommern, Landkreis Vorpommern-Rügen (MeVo)"
+ },
+ {
+   "short": "NW",
+   "long": " Neustadt an der Weinstrasse (RhPf)"
+ },
+ {
+   "short": "NWM",
+   "long": " Landkreis Nordwestmecklenburg (MeVo)"
+ },
+ {
+   "short": "NY",
+   "long": " Landkreis Görlitz (Sachs)"
+ },
+ {
+   "short": "NZ",
+   "long": " Meklenburgische Seenplatte (MeVo)"
+ },
+ {
+   "short": "OA",
+   "long": " Oberallgäu in Sonthofen (Bay)"
+ },
+ {
+   "short": "OAL",
+   "long": " Ostallgäu in Marktoberdorf (Bay)"
+ },
+ {
+   "short": "OB",
+   "long": " Oberhausen/Rheinland (NrWe)"
+ },
+ {
+   "short": "OBG",
+   "long": " Stendal (SaAn)"
+ },
+ {
+   "short": "OC",
+   "long": " Landkreis Börde (SaAn)"
+ },
+ {
+   "short": "OCH",
+   "long": " Ochsenfurt / Würzburg (Bay)"
+ },
+ {
+   "short": "OD",
+   "long": " Stormarn in Bad Oldesloe (SlHo)"
+ },
+ {
+   "short": "OE",
+   "long": " Olpe (NrWe)"
+ },
+ {
+   "short": "OF",
+   "long": " Offenbach / Main, Stadt und Kreis (Hess)"
+ },
+ {
+   "short": "OG",
+   "long": " Ortenaukreis in Offenburg (BaWü)"
+ },
+ {
+   "short": "OH",
+   "long": " Ostholstein in Eutin (SlHo)"
+ },
+ {
+   "short": "OHA",
+   "long": " Osterode / Harz (NiSa)"
+ },
+ {
+   "short": "OHV",
+   "long": " Oberhavel (Bran)"
+ },
+ {
+   "short": "OHZ",
+   "long": " Osterholz-Scharmbeck (NiSa)"
+ },
+ {
+   "short": "OK",
+   "long": " Ohrekreis, Landkreis Börde (SaAn)"
+ },
+ {
+   "short": "OL",
+   "long": " Oldenburg, Stadt und Kreis (NiSa)"
+ },
+ {
+   "short": "OP",
+   "long": " Opladen, Landkreis Rhein-Wupper-Kreis (NrWe)"
+ },
+ {
+   "short": "OPR",
+   "long": " Ostprignitz-Ruppin (Bran)"
+ },
+ {
+   "short": "OS",
+   "long": " Osnabrück, Stadt und Kreis (NiSa)"
+ },
+ {
+   "short": "OSL",
+   "long": " Oberspreewald-Lausitz (Bran)"
+ },
+ {
+   "short": "OVI",
+   "long": " Schwandorf (Bay)"
+ },
+ {
+   "short": "OVL",
+   "long": " Vogtlandkreis (Sachs)"
+ },
+ {
+   "short": "OVP",
+   "long": " Ostvorpommern, Landkreis Vorpommern - Greifswald (MeVo)"
+ },
+ {
+   "short": "P",
+   "long": " Potsdam (Bran)"
+ },
+ {
+   "short": "PA",
+   "long": " Passau, Stadt und Kreis (Bay)"
+ },
+ {
+   "short": "PAF",
+   "long": " Pfaffenhofen/Ilm (Bay)"
+ },
+ {
+   "short": "PAN",
+   "long": " Rottal-Inn in Pfarrkirchen (Bay)"
+ },
+ {
+   "short": "PAR",
+   "long": " Neumarkt in der Oberpfalz, Kelheim (Bay)"
+ },
+ {
+   "short": "PB",
+   "long": " Paderborn (NrWe)"
+ },
+ {
+   "short": "PCH",
+   "long": " Parchim, Landkreis Ludwigslust Parchim (MeVo)"
+ },
+ {
+   "short": "PE",
+   "long": " Peine (NiSa)"
+ },
+ {
+   "short": "PEG",
+   "long": " Bayreuth, Forchheim, Nürnberger Land (Bay)"
+ },
+ {
+   "short": "PF",
+   "long": " Enzkreis und Pforzheim, Stadt und Kreis (BaWü)"
+ },
+ {
+   "short": "PI",
+   "long": " Pinneberg (SlHo)"
+ },
+ {
+   "short": "PIR",
+   "long": " Pirna, Sächsische Schweiz Osterzgebirge (Sachs)"
+ },
+ {
+   "short": "PL",
+   "long": " Plauen, Vogtlandkreis (Sachs)"
+ },
+ {
+   "short": "PLö",
+   "long": " Plön/Holstein (SlHo)"
+ },
+ {
+   "short": "PM",
+   "long": " Potsdam-Mittelmark (Bran)"
+ },
+ {
+   "short": "PN",
+   "long": " Saale-Orla-Kreis (Thür)"
+ },
+ {
+   "short": "PR",
+   "long": " Prignitz (Bran)"
+ },
+ {
+   "short": "PRü",
+   "long": " Bitburg-Prüm (RhPf)"
+ },
+ {
+   "short": "PS",
+   "long": " Pirmasens / Südwestpfals, Stadt und Kreis (RhPf)"
+ },
+ {
+   "short": "PW",
+   "long": " Landkreis Vorpommern-Greifswald (MeVo)"
+ },
+ {
+   "short": "PZ",
+   "long": " Uckermark (Bran)"
+ },
+ {
+   "short": "QFT",
+   "long": " Saalekreis (SaAn)"
+ },
+ {
+   "short": "QLB",
+   "long": " Quedlinburg / Landkreis Harz (SaAn)"
+ },
+ {
+   "short": "R",
+   "long": " Regensburg, Stadt und Kreis (Bay)"
+ },
+ {
+   "short": "RA",
+   "long": " Rastatt (BaWü)"
+ },
+ {
+   "short": "RC",
+   "long": " Vogtlandkreis (Sachs)"
+ },
+ {
+   "short": "RD",
+   "long": " Rendsburg-Eckernfoerde (SlHo)"
+ },
+ {
+   "short": "RDG",
+   "long": " Landkreis Vorpommern-Rügen (MeVo)"
+ },
+ {
+   "short": "RE",
+   "long": " Recklinghausen in Marl (NrWe)"
+ },
+ {
+   "short": "REH",
+   "long": " Hof, Wunsiedel im Fichtelgebirge (Bay)"
+ },
+ {
+   "short": "REG",
+   "long": " Regen (Bayr. Wald) (Bay)"
+ },
+ {
+   "short": "RG",
+   "long": " Riesa-Großenhain / Landkreis Meißen (Sachs)"
+ },
+ {
+   "short": "RH",
+   "long": " Roth/Rednitz (Bay)"
+ },
+ {
+   "short": "RI",
+   "long": " Schaumburg (NiSa)"
+ },
+ {
+   "short": "RID",
+   "long": " Kehlheim (Bay)"
+ },
+ {
+   "short": "RIE",
+   "long": " Landkreis Meißen (Sachs)"
+ },
+ {
+   "short": "RK",
+   "long": " Rheinkamp, Stadtteil von Moers im Kreis Wesel (NrWe)"
+ },
+ {
+   "short": "RL",
+   "long": " Landkreis Mittelsachsen (Sachs)"
+ },
+ {
+   "short": "RM",
+   "long": " Mecklenburgische Seenplatte (MeVo)"
+ },
+ {
+   "short": "RO",
+   "long": " Rosenheim, Stadt und Kreis (Bay)"
+ },
+ {
+   "short": "ROD",
+   "long": " Cham, Schwandorf (Bay)"
+ },
+ {
+   "short": "ROF",
+   "long": " Hersfeld - Rotenburg (Hess)"
+ },
+ {
+   "short": "ROK",
+   "long": " Donnersberg (RhPf)"
+ },
+ {
+   "short": "ROL",
+   "long": " Kehlheim, Landshut (Bay)"
+ },
+ {
+   "short": "ROS",
+   "long": " Landkreis Rostock (MeVo)"
+ },
+ {
+   "short": "ROT",
+   "long": " Ansbach (Bay)"
+ },
+ {
+   "short": "ROW",
+   "long": " Rotenburg/Wümme (NiSa)"
+ },
+ {
+   "short": "RP",
+   "long": " Rhein-Pfalz-Kreis (RhPf)"
+ },
+ {
+   "short": "RPL",
+   "long": " Landesregierung Rheinland-Pfalz (RhPf)"
+ },
+ {
+   "short": "RS",
+   "long": " Remscheid (NrWe)"
+ },
+ {
+   "short": "RSL",
+   "long": " Dessau-Roßlau (SaAn)"
+ },
+ {
+   "short": "RT",
+   "long": " Reutlingen (BaWü)"
+ },
+ {
+   "short": "RüD",
+   "long": " Rheingau-Taunus-Kreis in Rüdesheim (Hess)"
+ },
+ {
+   "short": "RüG",
+   "long": " Rügen, Landkreis Vorpommern (MeVo)"
+ },
+ {
+   "short": "RV",
+   "long": " Ravensburg (BaWü)"
+ },
+ {
+   "short": "RW",
+   "long": " Rottweil (BaWü)"
+ },
+ {
+   "short": "RZ",
+   "long": " Herzogtum Lauenburg in Ratzeburg (SlHo)"
+ },
+ {
+   "short": "S",
+   "long": " Stuttgart (BaWü)"
+ },
+ {
+   "short": "SAB",
+   "long": " Landkreis Trier-Saarburg (RhPf)"
+ },
+ {
+   "short": "SAD",
+   "long": " Schwandorf (Bay)"
+ },
+ {
+   "short": "SAN",
+   "long": " Hof, Kulmbach, Kronach (Bay)"
+ },
+ {
+   "short": "SAW",
+   "long": " Altmarkkreis-Salzwedel (SaAn)"
+ },
+ {
+   "short": "SB",
+   "long": " Saarbrücken (Saar)"
+ },
+ {
+   "short": "SBG",
+   "long": " Vorprommern-Greifswald (MeVo)"
+ },
+ {
+   "short": "SBK",
+   "long": " Schönebeck/Elbe (SaAn), ab 1991 bis 2007,danach SLK"
+ },
+ {
+   "short": "SC",
+   "long": " Schwabach (Bay)"
+ },
+ {
+   "short": "SCZ",
+   "long": " Saale-Orla-Kreis (Thür)"
+ },
+ {
+   "short": "SDH",
+   "long": " Kyffhäuserkreis (Thür)"
+ },
+ {
+   "short": "SDL",
+   "long": " Stendal (SaAn)"
+ },
+ {
+   "short": "SDT",
+   "long": " Uckermark (Bran)"
+ },
+ {
+   "short": "SE",
+   "long": " Bad Segeberg (SlHo)"
+ },
+ {
+   "short": "SEB",
+   "long": " Sächsische Schweiz-Osterzgebirge, Märkisch Oberland (Bran)"
+ },
+ {
+   "short": "SEE",
+   "long": " Märkisch Oderland (Bran)"
+ },
+ {
+   "short": "SEF",
+   "long": " Neustadt an der Aisch, Bad Windsheim (Bay)"
+ },
+ {
+   "short": "SFA",
+   "long": " Soltau-Fallingbostel (NiSa), gültig bis 31.07.2011, danach HK (Heidekreis)"
+ },
+ {
+   "short": "SFB",
+   "long": " Oberspreewald-Lausitz (Bran)"
+ },
+ {
+   "short": "SFT",
+   "long": " Salzlandkreis (SaAn)"
+ },
+ {
+   "short": "SG",
+   "long": " Solingen (NrWe)"
+ },
+ {
+   "short": "SGH",
+   "long": " Landkreis Mansfeld-Südharz (SaAn)"
+ },
+ {
+   "short": "SHA",
+   "long": " Schwäbisch Hall (BaWü)"
+ },
+ {
+   "short": "SHG",
+   "long": " Schaumburg in Stadthagen (NiSa)"
+ },
+ {
+   "short": "SHK",
+   "long": " Saale-Holzlandkreis (Thür)"
+ },
+ {
+   "short": "SHL",
+   "long": " Suhl (Thür)"
+ },
+ {
+   "short": "SI",
+   "long": " Siegen-Wittgenstein (NrWe)"
+ },
+ {
+   "short": "SIG",
+   "long": " Sigmaringen (BaWü)"
+ },
+ {
+   "short": "SIM",
+   "long": " Rhein-Hunsrück-Kreis in Simmern (RhPf)"
+ },
+ {
+   "short": "SK",
+   "long": " Saalekreise, Stadt/ Landkreis (SaAn) "
+ },
+ {
+   "short": "SL",
+   "long": " Schleswig-Flensburg (SlHo)"
+ },
+ {
+   "short": "SLE",
+   "long": " Kreis Euskirchen, Schleiden (NrWe)"
+ },
+ {
+   "short": "SLF",
+   "long": " Saalfeld-Rudolstadt (Thür)"
+ },
+ {
+   "short": "SLK",
+   "long": " Salzlandkreis (SaAn)"
+ },
+ {
+   "short": "SLN",
+   "long": " Altenburger Land (Thür)"
+ },
+ {
+   "short": "SLS",
+   "long": " Saarlouis (Saar)"
+ },
+ {
+   "short": "SLü",
+   "long": " Main-Kinzing-Kreis (Hess)"
+ },
+ {
+   "short": "SLZ",
+   "long": " Wartburgkreis (Thür)"
+ },
+ {
+   "short": "SM",
+   "long": " Schmalkalden-Meiningen (Thür)"
+ },
+ {
+   "short": "SN",
+   "long": " Schwerin,Stadt (MeVo)"
+ },
+ {
+   "short": "SO",
+   "long": " Soest (NrWe)"
+ },
+ {
+   "short": "SOB",
+   "long": " Neuburg-Schrobenhausen (Bay)"
+ },
+ {
+   "short": "SOG",
+   "long": " Weilheim-Schongau (Bay)"
+ },
+ {
+   "short": "SöM",
+   "long": " Sömmerda (Thür)"
+ },
+ {
+   "short": "SOK",
+   "long": " Saale-Orla-Kreis (Thür)"
+ },
+ {
+   "short": "SON",
+   "long": " Sonneberg (Thür)"
+ },
+ {
+   "short": "SP",
+   "long": " Speyer (RhPf)"
+ },
+ {
+   "short": "SPB",
+   "long": " Spree-Neiße (Bran)"
+ },
+ {
+   "short": "SPN",
+   "long": " Spree-Neisse (Bran)"
+ },
+ {
+   "short": "SR",
+   "long": " Straubing-Bogen, Stadt und Kreis (Bay)"
+ },
+ {
+   "short": "SRB",
+   "long": " Märkisch Oderland (Bran)"
+ },
+ {
+   "short": "SRO",
+   "long": " Saale-Holzland-Kreis (Thür)"
+ },
+ {
+   "short": "ST",
+   "long": " Steinfurt (NrWe)"
+ },
+ {
+   "short": "STA",
+   "long": " Starnberg (Bay)"
+ },
+ {
+   "short": "STB",
+   "long": " Ludwigslust-Parchim (MeVo)"
+ },
+ {
+   "short": "STD",
+   "long": " Stade (NiSa)"
+ },
+ {
+   "short": "STE",
+   "long": " Lichtenfels (Bay)"
+ },
+ {
+   "short": "STL",
+   "long": " Stollberg, Erzgebirgskreis (Sachs)"
+ },
+ {
+   "short": "SU",
+   "long": " Rhein-Sieg-Kreis in Siegburg (NrWe)"
+ },
+ {
+   "short": "SUL",
+   "long": " Amberg-Sulzbach (Bay)"
+ },
+ {
+   "short": "SüW",
+   "long": " Südl. Weinstrasse in Landau (RhPf)"
+ },
+ {
+   "short": "SW",
+   "long": " Schweinfurt, Stadt und Kreis (Bay)"
+ },
+ {
+   "short": "SWA",
+   "long": " Rheingau-Taunus-Kreis (Hess)"
+ },
+ {
+   "short": "SY",
+   "long": " Diepholz (Syke), Landkreis südlich von Bremen (NiSa)"
+ },
+ {
+   "short": "SZ",
+   "long": " Salzgitter (NiSa)"
+ },
+ {
+   "short": "SZB",
+   "long": " Erzgebirgskreis (Sachs)"
+ },
+ {
+   "short": "TBB",
+   "long": " Main-Tauber-Kreis in Tauberbischofsheim (BaWü)"
+ },
+ {
+   "short": "TDO",
+   "long": " Torgau Delitzsch - Oschatz, Landkreis Nordsachsen (Sachs)"
+ },
+ {
+   "short": "TE",
+   "long": " Steinfurt (NrWe)"
+ },
+ {
+   "short": "TET",
+   "long": " Teterow, Landkreis Rostock (MeVo)"
+ },
+ {
+   "short": "TF",
+   "long": " Teltow-Fläming (Bran)"
+ },
+ {
+   "short": "TG",
+   "long": " Landkreis Nordsachsen (Sachs)"
+ },
+ {
+   "short": "TIR",
+   "long": " Tirschenreuth (Bay)"
+ },
+ {
+   "short": "TO",
+   "long": " Landkreis Nordsachsen (Sachs)"
+ },
+ {
+   "short": "TöL",
+   "long": " Bad Tölz-Wolfratshausen (Bay)"
+ },
+ {
+   "short": "TP",
+   "long": " Uckermark (Bran)"
+ },
+ {
+   "short": "TR",
+   "long": " Trier-Saarburg (RhPf)"
+ },
+ {
+   "short": "TS",
+   "long": " Traunstein (Bay)"
+ },
+ {
+   "short": "Tü",
+   "long": " Tübingen (BaWü)"
+ },
+ {
+   "short": "TUT",
+   "long": " Tuttlingen (BaWü)"
+ },
+ {
+   "short": "UE",
+   "long": " Uelzen (NiSa)"
+ },
+ {
+   "short": "UEM",
+   "long": " Landkreis Vorpommern-Greifswald (MeVo)"
+ },
+ {
+   "short": "UER",
+   "long": " Landkreis Vorpommern-Greifswald (MeVo)"
+ },
+ {
+   "short": "UFF",
+   "long": " Neustadt a. d. Aisch-Bad Windsheim (Bay)"
+ },
+ {
+   "short": "UH",
+   "long": " Unstrut-Hainich-Kreis (Thür)"
+ },
+ {
+   "short": "UL",
+   "long": " Alb-Donau-Kreis und Ulm (BaWü)"
+ },
+ {
+   "short": "UM",
+   "long": " Uckermark (Bran)"
+ },
+ {
+   "short": "UN",
+   "long": " Unna/Westfalen (NrWe)"
+ },
+ {
+   "short": "USI",
+   "long": " Hochtaunuskreis (Hess)"
+ },
+ {
+   "short": "V",
+   "long": " Vogtlandkreis (Sachs)"
+ },
+ {
+   "short": "VAI",
+   "long": " Ludwigsburg (BaWü)"
+ },
+ {
+   "short": "VB",
+   "long": " Vogelsbergkreis in Lauterbach (Hess)"
+ },
+ {
+   "short": "VEC",
+   "long": " Vechta (NiSa)"
+ },
+ {
+   "short": "VER",
+   "long": " Verden/Aller (NiSa)"
+ },
+ {
+   "short": "VG",
+   "long": " Landkreis Vorpommern-Greifswald (MeVo)"
+ },
+ {
+   "short": "VIB",
+   "long": " Landshut, Rottal-Inn (Bay)"
+ },
+ {
+   "short": "VIE",
+   "long": " Viersen (NrWe)"
+ },
+ {
+   "short": "VK",
+   "long": " Völklingen (Saar)"
+ },
+ {
+   "short": "VOH",
+   "long": " Neustadt a. d. Waldnaab (Bay)"
+ },
+ {
+   "short": "VR",
+   "long": " Landkreis Vorpommern-Rügen (MeVo)"
+ },
+ {
+   "short": "VS",
+   "long": " Schwarzwald-Baar-Kreis (BaWü)"
+ },
+ {
+   "short": "W",
+   "long": " Wuppertal (NrWe)"
+ },
+ {
+   "short": "WA",
+   "long": " Waldeck-Frankenberg (Hess)"
+ },
+ {
+   "short": "WAF",
+   "long": " Warendorf (NrWe)"
+ },
+ {
+   "short": "WAK",
+   "long": " Wartburgkreis (Thür)"
+ },
+ {
+   "short": "WAN",
+   "long": " Herne (NrWe)"
+ },
+ {
+   "short": "WAT",
+   "long": " Bochum (NrWe)"
+ },
+ {
+   "short": "WB",
+   "long": " Wittenberg (SaAn)"
+ },
+ {
+   "short": "WBS",
+   "long": " Eichsfeld (Thür)"
+ },
+ {
+   "short": "WDA",
+   "long": " Landkreis Zwickau (Sachs)"
+ },
+ {
+   "short": "WE",
+   "long": " Weimar (Thür)"
+ },
+ {
+   "short": "WEL",
+   "long": " Limburg-Weilburg (Hess)"
+ },
+ {
+   "short": "WEN",
+   "long": " Weiden in der Oberpfalz (Bay)"
+ },
+ {
+   "short": "WER",
+   "long": " Dillingen a. d. Donau (Bay)"
+ },
+ {
+   "short": "WES",
+   "long": " Wesel (NrWe)"
+ },
+ {
+   "short": "WF",
+   "long": " Wolfenbüttel (NiSa)"
+ },
+ {
+   "short": "WHV",
+   "long": " Wilhelmshaven (NiSa)"
+ },
+ {
+   "short": "WI",
+   "long": " Wiesbaden (Hess)"
+ },
+ {
+   "short": "WIL",
+   "long": " Bernkastel-Wittlich/Mosel (RhPf)"
+ },
+ {
+   "short": "WIS",
+   "long": " Landkreis Nordwestmecklenburg (MeVo)"
+ },
+ {
+   "short": "WIT",
+   "long": " Ennepe-Ruhr-Kreis (NrWe)"
+ },
+ {
+   "short": "WK",
+   "long": " Ostprigniz-Ruppin (Bran)"
+ },
+ {
+   "short": "WIZ",
+   "long": " Werra-Meißner-Kreis (Hess)"
+ },
+ {
+   "short": "WL",
+   "long": " Harburg in Winsen/Luhe (NiSa)"
+ },
+ {
+   "short": "WLG",
+   "long": " Landkreis Vorpommern-Greifswald (MeVo)"
+ },
+ {
+   "short": "WM",
+   "long": " Weilheim-Schongau/Oberbayern (Bay) und"
+ },
+ {
+   "short": "",
+   "long": "  vereinzelt in Bremerhaven für Landkreis Wesermünde, heute Cuxhaven (NiSa)"
+ },
+ {
+   "short": "WMS",
+   "long": " Landkreis Börde (SaAn)"
+ },
+ {
+   "short": "WN",
+   "long": " Rems-Murr-Kreis in Waiblingen (BaWü)"
+ },
+ {
+   "short": "WND",
+   "long": " St. Wendel (Saar)"
+ },
+ {
+   "short": "WO",
+   "long": " Worms (RhPf)"
+ },
+ {
+   "short": "WOB",
+   "long": " Wolfsburg (NiSa)"
+ },
+ {
+   "short": "WOH",
+   "long": " Landkreis Kassel (Hess)"
+ },
+ {
+   "short": "WOL",
+   "long": " Ortenaukreis (BaWü)"
+ },
+ {
+   "short": "WOR",
+   "long": " Bad Tölz-Wolfratshausen, Landkreis München, Starnberg (Bay)"
+ },
+ {
+   "short": "WOS",
+   "long": " Freyung-Grafenau (Bay)"
+ },
+ {
+   "short": "WR",
+   "long": " Wernigerode, Landkreis Harz (SaAn)"
+ },
+ {
+   "short": "WRN",
+   "long": " Mecklenburgische Seenplatte (MeVo)"
+ },
+ {
+   "short": "WS",
+   "long": " Rosenheim (Bay)"
+ },
+ {
+   "short": "WSF",
+   "long": " Weißenfels, Burgenlandkreis (SaAn)"
+ },
+ {
+   "short": "WST",
+   "long": " Ammerland in Westerstede (NiSa)"
+ },
+ {
+   "short": "WSW",
+   "long": " Landkreis Görlitz (Sachs)"
+ },
+ {
+   "short": "WT",
+   "long": " Waldshut-Tiengen (BaWü)"
+ },
+ {
+   "short": "WTM",
+   "long": " Wittmund (NiSa)"
+ },
+ {
+   "short": "Wü",
+   "long": " Würzburg (Stadt und Kreis) (Bay)"
+ },
+ {
+   "short": "WUG",
+   "long": " Weissenburg-Gunzenhausen (Bay)"
+ },
+ {
+   "short": "WUN",
+   "long": " Wunsiedel (Bay)"
+ },
+ {
+   "short": "WüM",
+   "long": " Cham (Bay)"
+ },
+ {
+   "short": "WUR",
+   "long": " Wurzen, Landkreis Leipzig (Sachs)"
+ },
+ {
+   "short": "WW",
+   "long": " Westerwald in Montabaur (RhPf)"
+ },
+ {
+   "short": "WZ",
+   "long": " Dill-Kreis (Hess)"
+ },
+ {
+   "short": "WZL",
+   "long": " Landkreis Börde (SaAn)"
+ },
+ {
+   "short": "X",
+   "long": " Bundeswehr für NATO-Hauptquartiere"
+ },
+ {
+   "short": "Y",
+   "long": " Bundeswehr"
+ },
+ {
+   "short": "Z",
+   "long": " Landkreis Zwickau (Sachs)"
+ },
+ {
+   "short": "ZE",
+   "long": " Anhalt-Bitterfeld (SaAn)"
+ },
+ {
+   "short": "ZEL",
+   "long": " Cochem-Zell (RhPf)"
+ },
+ {
+   "short": "ZI",
+   "long": " Landkreis Görlitz (Sachs)"
+ },
+ {
+   "short": "ZP",
+   "long": " Erzgebirgskreis (Sachs)"
+ },
+ {
+   "short": "ZR",
+   "long": " Greiz (SaAn)"
+ },
+ {
+   "short": "ZW",
+   "long": " Zweibrücken (RhPf)"
+ },
+ {
+   "short": "ZZ",
+   "long": " Burgenlandkreis (SaAn)"
+ }
+]

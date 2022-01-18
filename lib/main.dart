@@ -1,91 +1,122 @@
-import 'package:flutter/material.dart';
-import 'package:getwidget/getwidget.dart';
+import 'dart:convert';
 
-void main() {
-  runApp(MyApp());
-}
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:material_floating_search_bar/material_floating_search_bar.dart';
+import 'kennzeichen.dart';
+
+
+void main()=> runApp(MyApp());
 
 class MyApp extends StatelessWidget {
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: MyHomePage(title: 'Kennzeichen'),
+      debugShowCheckedModeBanner: false,
+      home: Home(),
+
     );
   }
 }
-
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key? key, required this.title}) : super(key: key);
-  final String title;
+class Home extends StatefulWidget {
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  _HomeState createState() => _HomeState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
-
-  void _incrementCounter() {
-    setState(() {
-      _counter++;
-    });
-  }
-
+class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
-
-    List list = [
-      "Flutter",
-      "React",
-      "Ionic",
-      "Xamarin",
-    ];
-
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[
-            GFSearchBar(searchList: list,
-              searchQueryBuilder: (query, list) {
-                return list
-                    .where((item) => item!.toLowerCase().contains(query.toLowerCase())).toList();
-              },
-              overlaySearchListItemBuilder: (item) {
-                return Container(
-                  padding: const EdgeInsets.all(8),
-                  child: Text(
-                    item,
-                    style: const TextStyle(fontSize: 18),
-                  ),
-                );
-              },
-              onItemSelected: (item) {
-              setState(() {
-                print('$item');
-              });
-              },
-            ),
-            GFButton(
-              onPressed: _incrementCounter,
-              text: "Search",
-              blockButton: true,
-            )
-          ],
-        ),
-      ),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: Icon(Icons.add),
+      resizeToAvoidBottomInset: false,
+      body: Stack(
+        fit: StackFit.expand,
+        children: [
+          Image.asset("assets/ferryman.jpg", fit: BoxFit.cover,),
+          searchBarUI(),
+        ],
       ),
     );
+  }
+
+  List<Kennzeichen> kennzeichenAll =[new Kennzeichen(short: 'Loading', long: 'Loading', display:ListTile(title: Text('Loading...'), subtitle: Text('Loading...'),) )];
+  String search= '';
+
+  Widget searchBarUI() {
+    return FloatingSearchBar(
+      hint: 'Search ...',
+      openAxisAlignment: 0.0,
+      axisAlignment: 0.0,
+      scrollPadding: EdgeInsets.only(top: 16, bottom: 20),
+      elevation: 4.0,
+      onQueryChanged: (query){
+        search = query;
+      },
+      onSubmitted: (query) {
+        search = query;
+      },
+      transitionCurve: Curves.easeInOut,
+      transitionDuration: Duration(milliseconds: 500),
+      transition: CircularFloatingSearchBarTransition(),
+      debounceDelay: Duration(milliseconds: 500),
+      actions: [
+        FloatingSearchBarAction.searchToClear(
+          showIfClosed: false,
+        ),
+      ],
+      builder: (context, transition) {
+        return ClipRRect(
+          child: Material(
+            color: Colors.white,
+            child: Container(
+              height: 400.0,
+              color: Colors.white,
+              child: kennzeichen()
+            ),
+          ),
+        );
+      },
+    );
+  }
+
+  Widget kennzeichen() {
+    return CustomScrollView(
+      shrinkWrap: true,
+      slivers: <Widget>[
+        SliverPadding(
+          padding: const EdgeInsets.all(20.0),
+          sliver: SliverList(
+            delegate: SliverChildListDelegate(
+              searchList(search)
+            ),
+          ),
+        ),
+      ],
+    );
+  }
+
+  List<Widget> searchList(String searchString) {
+    //print(kennzeichenAll[0].display);
+
+    List<Kennzeichen> kennzeichenFiltered = kennzeichenAll.where((element) => element.short.startsWith(searchString.toUpperCase())).toList();
+
+    List<Widget> kennzeichenDisplay = [];
+      kennzeichenFiltered.forEach((element) => kennzeichenDisplay.add(element.display));
+    return kennzeichenDisplay;
+  }
+
+  Future<void> createDefault(List listToAddTo) async {
+    final String response = await rootBundle.loadString('assets/kennzeichen.json');
+    final data = await json.decode(response);
+    listToAddTo = [];
+    for (var obj in data) {
+      listToAddTo.add(new Kennzeichen(
+          short: obj['short'],
+          long: obj['long'],
+          display: new ListTile(
+            title: Text(obj['short']),
+            subtitle: Text(obj['long']),
+          )
+      ));
+    }
   }
 }
